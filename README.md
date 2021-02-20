@@ -35,8 +35,8 @@ https://aniruddhchavda.github.io/HCI-HW1-MicrowaveInterface
 </ul>
 
 <h2>Sequence of actions :</h2>
-<h3> 1) User first clicks the buttons on numpad to set approriate time </h3>
-<h3> 2) User sets the power level in 1-10 scale</h3>
+<p> 1) User first clicks the buttons on numpad to set approriate time </p>
+<p> 2) User sets the power level in 1-10 scale</p>
 
 <h2>Feedback :</h2>
-<h3> The microwave makes beep sound when a button is clicked </h3>
+<p> The microwave makes beep sound when a button is clicked </p>
