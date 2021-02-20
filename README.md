@@ -1,7 +1,7 @@
-# HCI
+<h1>HCI</h1>
 
+<h2>Presentation URL</h2>
 https://aniruddhchavda.github.io/HCI-HW1-MicrowaveInterface
 
-![Alt Text](Images/Control Interface.jpeg)
-
-<img src="Images/Control Interface.jpeg" widfth=50 height=100>
+<h2>Control Interface Image :</h2>
+<img src="Images/Control Interface.jpeg" widfth=250 height=500>
