@@ -14,5 +14,5 @@ https://aniruddhchavda.github.io/HCI-HW1-MicrowaveInterface
 <h2>The problems with current design</h2>
 <ul>
   <li>As shown in the gif of control interface, as soon as you select the time, it starts heating up at level 10 power by default, you can only change the power after starting to heat</li>
-  <li>Only time left is shown in the information panel, no temperature, time and mode is displayed</li>
+  <li>Only remaining time is shown in the information panel LCD. Temperature, day-time and mode is not displayed</li>
 </ul>
