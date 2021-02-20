@@ -9,7 +9,7 @@ https://aniruddhchavda.github.io/HCI-HW1-MicrowaveInterface
 <img src="Images/Control Interface.jpeg" widfth=250 height=500>
 
 <h2>Control Interface GIf</h2>
-<img src="Images/Control Interface.gif" widfth=250 height=500>
+<img src="Images/microwave interface in action.gif" widfth=250 height=500>
 
 <h2>The problems with current design</h2>
 <ul>
