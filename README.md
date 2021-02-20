@@ -25,7 +25,7 @@ https://aniruddhchavda.github.io/HCI-HW1-MicrowaveInterface
 <ul>
   <li>Heat up the food at medium power for 1 minute</li>
   <li>Defrost frozen food till they're at normal room teperature</li>
-  </li>If making noodles, heat up at power 10 for 4 minutes</li>
+  <li>If making noodles, heat up at power 10 for 4 minutes</li>
 </ul>
 
 <h2>Rare uses :</h2>
