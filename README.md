@@ -37,7 +37,7 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 </ul>
 
 <h2>Does the interface make doing those common things easier?</h2>
-<p> No, Setting power level while food is cooking results in unevenely cooked food. </p>
+<p> No, Setting power level while the food is cooking results in unevenely cooked food. </p>
 
 <h2>Sequence of actions :</h2>
 <p>  1) User opens the door using mechanical push button. </p>
@@ -66,7 +66,7 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <h1>PART A</h1>
 
 <h2>Design for the Touch Screen</h2>
-<img src="Images/sketch.png" width=450 height=500>
+<img src="Images/sketch.png" width=600 height=500>
 
 <h2>Features</h2>
 <ul>
