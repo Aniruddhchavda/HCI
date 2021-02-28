@@ -48,7 +48,7 @@ https://youtu.be/6TCtiBeIn6s
 <p>  3) User clicks the buttons on numpad to set approriate time. </p>
 <p>  4) User sets the power level in 1-10 scale. </p>
 
-<h2>Feedback :</h2>
+<h2>Existing microwave's Feedback :</h2>
 <p> The microwave makes beep sound when a button is clicked </p>
 <p> The microwave makes double-beep when heating is done. </p>
 
