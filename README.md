@@ -40,23 +40,25 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <p> No, Setting power level while food is cooking results in unevenely cooked food. </p>
 
 <h2>Sequence of actions :</h2>
-<p>  User opens the door using mechanical push button. </p>
-<p>  User clicks the buttons on numpad to set approriate time. </p>
-<p>  User sets the power level in 1-10 scale. </p>
-<p>  User opens the door using mechanical push button. </p>
+<p>  1) User opens the door using mechanical push button. </p>
+<p>  2) User opens the door using mechanical push button. </p>
+<p>  3) User clicks the buttons on numpad to set approriate time. </p>
+<p>  4) User sets the power level in 1-10 scale. </p>
 
 <h2>Feedback :</h2>
 <p> The microwave makes beep sound when a button is clicked </p>
 <p> The microwave makes double-beep when heating is done. </p>
 
 <h2>What are some common mistakes you can make with this current design?</h2>
-<p>The most common mistake is heating up food on HIGH(Power Level 10) because it's the default PL when you start. It may ruin the food.</p>
+<p>The most common mistake is heating up food on HIGH(Power Level 10) because it's the default Power Level when you start. It may ruin the food.</p>
 
 <h2>Suggestions to Improve</h2>
-<p>Make the Interface as simple as possible with minimum buttons</p>
-<p>Make the Interface disable friendly.</p>
-<p>Use electrically operated doors instead of mechanical button doors.</p>
-<p>Make use of Human Voice to have better understanding on what's going on.</p>
+<ul>
+<li>Make the Interface as simple as possible with minimum buttons</li>
+<li>Make the Interface disable friendly.</li>
+<li>Use electrically operated doors instead of mechanical button doors.</li>
+<li>Make use of Human Voice to have better understanding on what's going on.</li>
+</ul>
 
 <h2>Sketch</h2>
 
@@ -64,16 +66,20 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <h1>PART A</h1>
 
 <h2>Design for the Touch Screen</h2>
-<img src="Images/sketch.png" width=350 height=500>
+<img src="Images/sketch.png" width=450 height=500>
 
 <h2>Features</h2>
-<p>Click 1 button to Add 30s and heat at medium(Power level 5)</p>
-<p>Support for disabled</p>
-<p>Ability to set power level before cooking.</p>
-<p>Electically Operated doors with auto-stop if opened.</p>
+<ul>
+<li>Click 1 button to Add 30s and heat at medium(Power level 5)</li>
+<li>Support for disabled</li>
+<li>Ability to set power level before cooking.</li>
+<li>Electically Operated doors with auto-stop if opened.</li>
+</ul>
 
 <h2>Feedback</h2>
-<p>Whenever a button is clicked, a beep sound is played and the button will have an neon colored underline</p>
-<p>While setting a knob, it's indicator will turn maroon and the value of the knob would be showed on the display in real time.</p>
-<p>A human voice would guide whenever the door is opened or closed.</p>
-<p>Feedback for disabled is through human voice which will dictate the total time for cooking.</p>
+<ul>
+<li>Whenever a button is clicked, a beep sound is played and the button will have an neon colored underline</li>
+<li>While setting a knob, it's indicator will turn maroon and the value of the knob would be showed on the display in real time.</li>
+<li>A human voice would guide whenever the door is opened or closed.</li>
+<li>Feedback for disabled is through human voice which will dictate the total time for cooking.</li>
+</ul>
