@@ -61,4 +61,19 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <h2>Sketch</h2>
 
 
-<img src="Images/sketch.png" width=250 height=500>
+<h1>PART A</h1>
+
+<h2>Design for the Touch Screen</h2>
+<img src="Images/sketch.png" width=350 height=500>
+
+<h2>Features</h2>
+<p>Click 1 button to Add 30s and heat at medium(Power level 5)</p>
+<p>Support for disabled</p>
+<p>Ability to set power level before cooking.</p>
+<p>Electically Operated doors with auto-stop if opened.</p>
+
+<h2>Feedback</h2>
+<p>Whenever a button is clicked, a beep sound is played and the button will have an neon colored underline</p>
+<p>While setting a knob, it's indicator will turn maroon and the value of the knob would be showed on the display in real time.</p>
+<p>A human voice would guide whenever the door is opened or closed.</p>
+<p>Feedback for disabled is through human voice which will dictate the total time for cooking.</p>
