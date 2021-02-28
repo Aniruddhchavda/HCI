@@ -80,6 +80,6 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <ul>
 <li>Whenever a button is clicked, a beep sound is played and the button will have an neon colored underline</li>
 <li>While setting a knob, it's indicator will turn maroon and the value of the knob would be showed on the display in real time.</li>
-<li>A human voice would guide whenever the door is opened or closed.</li>
-<li>Feedback for disabled is through human voice which will dictate the total time for cooking.</li>
+<li>A human voice would be played whenever the door is opened or closed.</li>
+<li>Feedback for disabled is through human voice which will dictate the total time for cooking as well as power level.</li>
 </ul>
