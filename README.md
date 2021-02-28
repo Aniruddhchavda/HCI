@@ -89,7 +89,7 @@ https://youtu.be/6TCtiBeIn6s
 
 <h2>Support for Disabled</h2>
 <ul>
-  <li>Very Simple sequence fo actions, just touch on left top corner to start heating at Power Level 8 for 30 secs, click again to add 30 secs more.</li>
+  <li>Very Simple sequence of actions, just touch on left top corner to start heating at Power Level 8 for 30 secs, click again to add 30 secs more.</li>
   <li>Feedback for disabled is through human voice which will dictate the total time for cooking, remaining time and power level.</li>
 </ul>
 
