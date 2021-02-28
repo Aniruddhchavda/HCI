@@ -66,7 +66,7 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <h1>PART A</h1>
 
 <h2>Design for the Touch Screen</h2>
-<img src="Images/sketch.png" width=1000 height=500>
+<img src="Images/sketch.png" width=1500 height=400>
 
 <h2>Features</h2>
 <ul>
