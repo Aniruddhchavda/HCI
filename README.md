@@ -8,10 +8,10 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <h1>PART C</h1>
 
 <h2>Control Interface Picture :</h2>
-<img src="Images/Control Interface.jpeg" widfth=250 height=500>
+<img src="Images/Control Interface.jpeg" width=250 height=500>
 
 <h2>Control Interface Gif :</h2>
-<img src="Images/microwave interface in action.gif" widfth=250 height=500>
+<img src="Images/microwave interface in action.gif" width=250 height=500>
 
 <h2>The problems with current design :</h2>
 <ul>
@@ -59,3 +59,6 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <p>Make use of Human Voice to have better understanding on what's going on.</p>
 
 <h2>Sketch</h2>
+
+
+<img src="Images/sketch.png" width=250 height=500>
