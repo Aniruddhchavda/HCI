@@ -1,4 +1,4 @@
-<h1>HCI</h1>
+<h1>HCI CS5331 Spring 21</h1>
 
 <h1>Aniruddh Sanjaysinh Chavda</h1>
 
