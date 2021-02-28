@@ -66,6 +66,7 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <h1>PART A</h1>
 
 <h2>Design for the Touch Screen</h2>
+<p>The size of the touch screen is 10 inches. Diagonal = 10 inches, Length = 8inches, Breadth = 6 inches.</p>
 <img src="Images/sketch.png" width=1500 height=400>
 
 <h2>Features</h2>
