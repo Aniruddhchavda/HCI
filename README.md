@@ -1,6 +1,6 @@
 <h1>HCI</h1>
 
-<h1>Aniruddh Chavda</h1>
+<h1>Aniruddh Sanjaysinh Chavda</h1>
 
 <h2>Presentation URL</h2>
 https://aniruddhchavda.github.io/p1AniruddhChavda
