@@ -82,5 +82,12 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 <li>Whenever a button is clicked, a beep sound is played and the button will have an neon colored underline</li>
 <li>While setting a knob, it's indicator will turn maroon and the value of the knob would be showed on the display in real time.</li>
 <li>A human voice would be played whenever the door is opened or closed.</li>
-<li>Feedback for disabled is through human voice which will dictate the total time for cooking, remaining time and power level.</li>
 </ul>
+
+<h2>Support for Disabled</h2>
+<ul>
+  <li>Very Simple sequence fo actions, just touch on left top corner to start heating at Power Level 8 for 30 secs, click again to add 30 secs more.</li>
+  <li>Feedback for disabled is through human voice which will dictate the total time for cooking, remaining time and power level.</li>
+</ul>
+
+<h1>Thank You !</h1>
