@@ -61,7 +61,7 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
 </ul>
 
 <h2>Sketch</h2>
-
+<img src="Images/sketch1.png" width=400 height=500>
 
 <h1>PART A</h1>
 
