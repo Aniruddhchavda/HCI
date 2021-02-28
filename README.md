@@ -90,4 +90,6 @@ https://aniruddhchavda.github.io/p1AniruddhChavda
   <li>Feedback for disabled is through human voice which will dictate the total time for cooking, remaining time and power level.</li>
 </ul>
 
+<h2>Gif of working Interface</h2>
+<img src="p1AniruddhChavda.gif" width=250 height=500>
 <h1>Thank You !</h1>
